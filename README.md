@@ -5,15 +5,15 @@
 
 > A sample app using bootstrap-vue and jwt as authentication (Tests included!).
 
-A bootstrap-vue(https://github.com/bootstrap-vue/bootstrap-vue) project for anyone that wants to jump start into building an app using jwt as authentication with localstorage(https://github.com/marcuswestin/store.js/).
+A [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) project for anyone that wants to jump start into building an app using jwt as authentication with [localstorage](https://github.com/marcuswestin/store.js/).
 
 The project includes 3 views (login, register, home).
 
-After logging a token is return which is stored in localstorage (persistance) and added to the Authorization header of every outgoing request of axios(https://github.com/axios/axios).
+After logging a token is return which is stored in localstorage (persistance) and added to the Authorization header of every outgoing request of [axios](https://github.com/axios/axios).
 
 The project uses a dummy endpoint which can be re-configured in the config files found in the /config folder.
 
-As testing framework jest(https://github.com/facebook/jest) is used with coverage > 95%.
+As testing framework [jest](https://github.com/facebook/jest) is used with coverage > 95%.
 
 ## Build Setup
 
